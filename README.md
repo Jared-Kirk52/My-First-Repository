@@ -1,6 +1,6 @@
 The files in this repository were used to configure the network depicted below.
 
-![](Images/ProjectServerMap.png)
+![](Ansible/Project/README/Images/ProjectServerMap.png)
 
 
 
@@ -71,7 +71,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-![](Images/Project%20Screen%20Shot.png)
+![](/Ansible/Project/README/Images/Project%20Screen%20Shot.png)
 
 
 ### Target Machines & Beats
